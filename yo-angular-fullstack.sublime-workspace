@@ -119,38 +119,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/index.html",
-			"settings":
-			{
-				"buffer_size": 2174,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/partials/main.html",
-			"settings":
-			{
-				"buffer_size": 502,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server.js",
-			"settings":
-			{
-				"buffer_size": 989,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/config/express.js",
-			"settings":
-			{
-				"buffer_size": 1312,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -188,8 +156,18 @@
 	},
 	"file_history":
 	[
+		"/D/DevProjects/angular-testing/Gruntfile.js",
+		"/D/DevProjects/angular-testing/package.json",
+		"/D/DevProjects/angular-testing/bower.json",
 		"/D/DevProjects/yo-angular-fullstack-scaffold/bower.json",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/app/scripts/app.js",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/test/spec/controllers/main.js",
 		"/D/DevProjects/yo-angular-fullstack-scaffold/app/views/index.html",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/app/scripts/controllers/main.js",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/app/scripts/controllers/navbar.js",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/server.js",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/app/views/partials/main.html",
+		"/D/DevProjects/yo-angular-fullstack-scaffold/lib/config/express.js",
 		"/D/DevProjects/my-mean-boilerplate/Gruntfile.js",
 		"/D/DevProjects/my-mean-boilerplate/package.json",
 		"/D/DevProjects/my-mean-boilerplate/views/layout.jade",
@@ -292,6 +270,8 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"D:\\DevProjects\\yo-angular-fullstack-scaffold",
+			"D:\\DevProjects\\yo-angular-fullstack-scaffold\\app",
 			""
 		]
 	},
@@ -300,6 +280,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"yoAngularFullstackScaffoldApp",
 			"passport",
 			"shell",
 			"\\\\r",
@@ -325,6 +306,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"app",
 			"\\\\n",
 			"\\n",
 			"\"",
@@ -339,119 +321,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/index.html",
-					"settings":
-					{
-						"buffer_size": 2174,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								798,
-								798
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 396.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/views/partials/main.html",
-					"settings":
-					{
-						"buffer_size": 502,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "server.js",
-					"settings":
-					{
-						"buffer_size": 989,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 216.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "lib/config/express.js",
-					"settings":
-					{
-						"buffer_size": 1312,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								825,
-								825
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
